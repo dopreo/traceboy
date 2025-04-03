@@ -1,4 +1,5 @@
 # traceboy
+![Screenshot_20250403_212930](https://github.com/user-attachments/assets/40276502-65a1-4def-9e37-061292c69d5a)
 
 Traceboy is a **super simple Python script for sidetone**.
 
@@ -9,6 +10,7 @@ It takes its mic input from your **default system mic**, and streams it out of y
 --
 
 ## Installation
+![Screenshot_20250403_212907](https://github.com/user-attachments/assets/3b7cc780-54fd-4853-b029-c69b3e05cd54)
 
 *You'll likely need to **make a Python venv (virtual environment)** that you can activate, then **install theese Python packages inside that**.*
 
