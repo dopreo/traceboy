@@ -40,9 +40,9 @@ and make sure that a package called **`portaudio`** is installed on your host sy
 
 ## Licensing
 
-- This is an [oreohive project](https://www.oreohive.org/onboarding), so use of this code is governed by [the oreohive organisation's Terms & Ethics of Use](https://www.oreohive.org/onboarding).
-- This mainly means that you **cannot use it to violate anyone else's rights**, and you **cannot use it to train or improve AI models**.
-- That said, **we release this code under [the GNU AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)**, so **you are free to share it and redistribute it as you see fit**, providing you abide by these two main rules and the GNU AGPL-3.0 license.
+- This is an [**oreohive project**](https://www.oreohive.org/onboarding), so use of this code is governed by [the oreohive organisation's **Terms & Ethics of Use**](https://www.oreohive.org/onboarding).
+- This mainly means that (**1**.) you **cannot use it to violate anyone else's rights**, and (**2**.) you **cannot use it to train or improve AI models**.
+- That said, **we release this code under** [the **GNU AGPL-3.0**](https://www.gnu.org/licenses/agpl-3.0.en.html), so **you are free to share it and redistribute it as you see fit**, providing you abide by these **two main rules** and the GNU AGPL-3.0 license.
 
 --
 
