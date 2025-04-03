@@ -45,6 +45,11 @@ and make sure that a package called **`portaudio`** is installed on your host sy
 
 --
 
+## Contributing
+
+- Simply **fork the repo**, **make your changes** and **open up a pull request** if there's something you think you can improve. **Thank you** in advance! :D
+- Help me pay for meds and car insurance: https://ko-fi.com/oreohive
+
 ## Licensing
 
 - This is an [**oreohive project**](https://www.oreohive.org/onboarding), so use of this code is governed by [the oreohive organisation's **Terms & Ethics of Use**](https://www.oreohive.org/onboarding).
