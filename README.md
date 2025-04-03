@@ -10,6 +10,12 @@ It takes its mic input from your **default system mic**, and streams it out of y
 
 ## Installation
 
+*You'll likely need to **make a Python venv (virtual environment)** that you can activate, then **install theese Python packages inside that**.*
+
+*The likes of **Linux desktops** often have Python **warn against installing random packages to your system Python installation** for obvious reasons.*
+
+--
+
 You'll just need to grab the following Python packages:
 - **`sounddevice`** (```pip install sounddevice```)
 - **`numpy`** (```pip install numpy```)
@@ -18,6 +24,7 @@ You'll just need to grab the following Python packages:
 
 and make sure that a package called **`portaudio`** is installed on your host system:
 - Example for Arch Linux and derivatives: ```sudo pacman -S portaudio```
+
 
 --
 
