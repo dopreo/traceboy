@@ -25,9 +25,13 @@ You'll just need to grab the following Python packages:
 and make sure that a package called **`portaudio`** is installed on your host system:
 - Example for Arch Linux and derivatives: ```sudo pacman -S portaudio```
 
+--
+
 ### Example commands for setting up dependencies on Ubuntu
 This should be about everything you need:
+
 ```sudo apt install python3-pyaudio libportaudio2```
+
 ```pip install sounddevice numpy pyqt6```
 
 --
