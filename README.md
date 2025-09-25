@@ -64,28 +64,8 @@ This should be about everything you need:
 
 ## Licensing
 
-- This is an [**oreohive project**](https://www.oreohive.org/onboarding), so use of this code is governed by [the oreohive organisation's **Terms & Ethics of Use**](https://www.oreohive.org/onboarding).
-- This mainly means that (**1**.) you **cannot use it to violate anyone else's rights**, and (**2**.) you **cannot use it to train or improve AI models**.
-- That said, **we release this code under** [the **GNU AGPL-3.0**](https://www.gnu.org/licenses/agpl-3.0.en.html), so **you are free to share it and redistribute it as you see fit**, providing you abide by these **two main rules** and the GNU AGPL-3.0 license.
-
---
-
-```
-You can redistribute and/or modify this program under the terms of the
-GNU Affero General Public License as published by the Free Software Foundation,
-either version 3 of the License, or (at your option) any later version, providing
-you maintain and uphold compliance with the oreohive organisation's Terms &
-Ethics of Use.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY — without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE — to the extent permitted by applicable laws.  See the GNU
-Affero General Public License for more details.
-
-You should have received a copy of the GNU Affero General Public License along
-with this program. If not, see https://www.gnu.org/licenses.
-```
-
---
+- This is an [**oreohive project**](https://www.oreohive.org/onboarding).
+- This code and software is distributed under the [oreohive Source No-AI-Training License](https://oreohive.org/onboarding).
+- Use of this code is governed by the [oreohive Source No-AI-Training License](https://oreohive.org/onboarding) (of most recent publication by the oreohive organisation)
 
 copyleft 🄯 2025 **oreo**  @ **oreohive.org** | **attributions are required**!
