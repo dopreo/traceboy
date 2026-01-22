@@ -68,4 +68,4 @@ This should be about everything you need:
 - This code and software is distributed under the [oreohive Source No-AI-Training License](https://oreohive.org/onboarding).
 - Use of this code is governed by the [oreohive Source No-AI-Training License](https://oreohive.org/onboarding) (of most recent publication by the oreohive organisation)
 
-copyleft 🄯 2025 **oreo**  @ **oreohive.org** | **attributions are required**!
+copyleft 🄯 **oreo**  @ **oreohive.org** | **attributions are required**!
